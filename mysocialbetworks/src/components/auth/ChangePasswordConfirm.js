@@ -14,4 +14,3 @@ class ChangePasswordConfirmation extends Component {
 }
 
 export default ChangePasswordConfirmation;
-© 2020 GitHub, Inc.
